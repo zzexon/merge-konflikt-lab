@@ -3,3 +3,4 @@ TIm:
 	- ZZEXON2 DEVELOPER
 	- zzexon Team Leader
 	- zzexon CEO
+	- zzexon Project Manager
