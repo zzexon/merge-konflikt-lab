@@ -3,4 +3,8 @@ TIm:
 	- ZZEXON2 DEVELOPER
 	- zzexon Team Leader
 	- zzexon CEO
+----     ODLUCIO SAM DA OBJEDINIM SVE<<<<<<< HEAD
+	- zzexon Project Manager
+ OVO JE RAZDJELJIVANJE=======
 	- zzexon2 QA engineer
+-------------- A I OVO CU OBJEDINITI >>>>>>> main
