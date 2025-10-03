@@ -3,8 +3,19 @@ TIm:
 	- ZZEXON2 DEVELOPER
 	- zzexon Team Leader
 	- zzexon CEO
+<<<<<<< HEAD
 ----     ODLUCIO SAM DA OBJEDINIM SVE<<<<<<< HEAD
 	- zzexon Project Manager
  OVO JE RAZDJELJIVANJE=======
 	- zzexon2 QA engineer
 -------------- A I OVO CU OBJEDINITI >>>>>>> main
+======= OVDE SAM OBJEDINIO ZA POG 6- ZADATAK 4 PRI KRAJU
+ovo dole  dodaje zzexon2-03.10.2025  - za pog 6-Zadatak 4: Simulacija kompleksnog konflikta sa više datoteka
+	Tim:
+- Sirius
+- Sirius Team Lead
+- Sirius2 Developer
+- Sirius Project Manager
+- Sirius2 QA Engineer
+- Sirius2 Tester
+>>>>>>> a956baa (DodanRoles.txt i Sir2Tester team.txt)-PA SNIMAM
