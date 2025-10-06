@@ -1,2 +1,7 @@
 	Uloge:
 - Developer: Sirius2
+
+Ovo dodaje zzexon2 :
+ 	Uloge:
+- Team Lead: Sirius
+- Developer: Sirius2
