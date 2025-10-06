@@ -1,0 +1,3 @@
+	zzexon2 Bio:
+- Ime: zzexon2
+- Uloga: Developer
